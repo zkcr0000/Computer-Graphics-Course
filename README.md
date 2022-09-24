@@ -26,13 +26,13 @@ Required libraries
 
 ## MP2 Rasterizer
 
-Implemented a rasterizer with the following feature.
+Implemented a rasterizer with the following features.
 
 - Depth buffer
 - Anti-aliasing(supersampling anti-aliasing(SSAA), multisample anti-aliasing(MSAA))
 
-Left is results without Anti-aliasing. Middle is results with MSAA. Right is results with SSAA.
-After zooming in, anti-aliasing has reduce the effect of zigzag at the boundary.
+Left is the result without Anti-aliasing. Middle is the result with MSAA. Right is the result with SSAA.
+After zooming in, we can see anti-aliasing has reduced the effect of zigzag at the boundary.
 
 <img alt="Without Anti-alising" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/Vanilla.png" width="250" height="250"/><img alt="MSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/MSAA.png" width="250" height="250"/><img alt="SSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/SSAA.png" width="250" height="250"/>
 
