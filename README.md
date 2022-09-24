@@ -13,6 +13,11 @@ This repository is based on a Computer graphics course assignment https://sites.
 
 ## Assignment1 Viewing Transformation
 
-Include View/Model transformation, Perspective/Orthogonal projection, Viewport transformation, Bresenham's line drawing algorithm
+- Model/View transformation, 
+- Perspective/Orthogonal projection, 
+- Viewport transformation, 
+- Bresenham's line drawing algorithm
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW1.gif" width="250" height="250"/>
+
+## Asignment2 
