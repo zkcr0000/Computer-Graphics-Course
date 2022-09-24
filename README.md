@@ -56,6 +56,6 @@ From left to right: Blinn-Phong reflection model, Bump mapping, Displacement map
 
 Implemented de Casteljau's algorithm
 
-
+<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW4.gif" width="250" height="250"/>
 
 
