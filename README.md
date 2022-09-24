@@ -23,6 +23,9 @@ It contains C++ implmentations of rasterizer, raytracing, etc. Results are shown
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW1.gif" width="250" height="250"/>
 
 ## MP2 Rasterizer
+
+Implemented a rasterizer with the following feature
+
 - Depth buffer
 - Anti-aliasing(supersampling anti-aliasing(SSAA), multisample anti-aliasing(MSAA))
 
@@ -35,6 +38,8 @@ After zooming in, anti-aliasing has reduce the effect of zigzag at the boundary.
 
 # MP3 Shading model
 
+Implemented the following shading methods
+
 - Blinn–Phong reflection model
 - Bump mapping
 - Displacement mapping
@@ -44,6 +49,10 @@ From left to right: Blinn-Phong reflection model, Bump mapping, Displacement map
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/phong.png" width="250" height="250"/><img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/bump.png" width="250" height="250"/><img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/displacement.png" width="250" height="250"/><img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/texture.png" width="250" height="250"/>
 
+
+# MP4 Bézier curve
+
+Implemented de Casteljau's algorithm
 
 
 
