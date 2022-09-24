@@ -15,4 +15,5 @@ This repository is based on a Computer graphics course assignment https://sites.
 
 Include View/Model transformation, Perspective/Orthogonal projection, Viewport transformation, Bresenham's line drawing algorithm
 
-![alt text]([http://url/to/img.png](https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW1.gif))
+![](https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW1.gif)
+
