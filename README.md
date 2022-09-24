@@ -5,6 +5,8 @@ It contains C++ implmentations of rasterizer, raytracing, etc. Results are shown
 
 # Setup
 
+Required libraries
+
 - CMake
 - Eigen
 - OpenCV
