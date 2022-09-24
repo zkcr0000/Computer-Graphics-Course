@@ -40,13 +40,13 @@ After zooming in, anti-aliasing has reduce the effect of zigzag at the boundary.
 - Displacement mapping
 - Texture
 
-<img src="(https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/phong.png)" width="250" height="250"/>
+<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/phong.png" width="250" height="250"/>
 
-<img src="(https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/bump.png)" width="250" height="250"/>
+<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/bump.png" width="250" height="250"/>
 
-<img src="(https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/displacement.png)" width="250" height="250"/>
+<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/displacement.png" width="250" height="250"/>
 
-<img src="(https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/texture.png)" width="250" height="250"/>
+<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/texture.png" width="250" height="250"/>
 
 
 
