@@ -62,7 +62,7 @@ Implemented de Casteljau's algorithm
 
 Implemented Whitted-Style Ray tracing
 
-<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW4.gif" width="250" height="250"/>
+<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW5.jpg" width="250" height="250"/>
 
 
 
