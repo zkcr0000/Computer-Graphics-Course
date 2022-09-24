@@ -26,7 +26,7 @@ Required libraries
 
 ## MP2 Rasterizer
 
-Implemented a rasterizer with the following feature
+Implemented a rasterizer with the following feature.
 
 - Depth buffer
 - Anti-aliasing(supersampling anti-aliasing(SSAA), multisample anti-aliasing(MSAA))
@@ -40,7 +40,7 @@ After zooming in, anti-aliasing has reduce the effect of zigzag at the boundary.
 
 # MP3 Shading model
 
-Implemented the following shading methods
+Implemented the following shading methods.
 
 - Blinn–Phong reflection model
 - Bump mapping
@@ -54,13 +54,13 @@ From left to right: Blinn-Phong reflection model, Bump mapping, Displacement map
 
 # MP4 Bézier curve
 
-Implemented de Casteljau's algorithm
+Implemented de Casteljau's algorithm.
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW4.gif" width="250" height="250"/>
 
 # MP5 Whitted-Style Ray tracing
 
-Implemented Whitted-Style Ray tracing
+Implemented Whitted-Style Ray tracing with reflection and diffraction.
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW5.jpg" width="250" height="250"/>
 
