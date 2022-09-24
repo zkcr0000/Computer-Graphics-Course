@@ -26,6 +26,9 @@ It contains C++ implmentations of rasterizer, raytracing, etc. Results are shown
 - Depth buffer
 - Anti-aliasing(supersampling anti-aliasing(SSAA), multisample anti-aliasing(MSAA))
 
+Left is results without Anti-aliasing. Middle is results with MSAA. Right is results with SSAA.
+After zooming in, anti-aliasing has reduce the effect of zigzag at the boundary.
+
 <img alt="Without Anti-alising" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/Vanilla.png" width="250" height="250"/><img alt="MSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/MSAA.png" width="250" height="250"/><img alt="SSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/SSAA.png" width="250" height="250"/>
 
 <img alt="Without Anti-alising" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/Vanilla_zoomin.png" width="250" height="250"/><img alt="MSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/MSAA_zoomin.png" width="250" height="250"/><img alt="SSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/SSAA_zoomin.png" width="250" height="250"/>
