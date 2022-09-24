@@ -58,4 +58,12 @@ Implemented de Casteljau's algorithm
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW4.gif" width="250" height="250"/>
 
+# MP5 Whitted-Style Ray tracing
+
+Implemented Whitted-Style Ray tracing
+
+<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW4.gif" width="250" height="250"/>
+
+
+
 
