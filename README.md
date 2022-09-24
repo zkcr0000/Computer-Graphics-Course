@@ -11,7 +11,7 @@ This repository is based on a Computer graphics course assignment https://sites.
 
 # Results
 
-## Assignment1 Viewing Transformation
+## MP1 Viewing Transformation
 
 - Model/View transformation, 
 - Perspective/Orthogonal projection, 
@@ -20,4 +20,4 @@ This repository is based on a Computer graphics course assignment https://sites.
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW1.gif" width="250" height="250"/>
 
-## Asignment2 
+## MP2 
