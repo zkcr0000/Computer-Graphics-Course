@@ -1,6 +1,8 @@
 # Computer-Graphics-Course
 This repository is based on a Computer graphics course assignment https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
 
+It contains C++ implmentations of rasterizer, raytracing, etc. Results are shown below.
+
 # Setup
 
 - CMake
@@ -20,4 +22,8 @@ This repository is based on a Computer graphics course assignment https://sites.
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW1.gif" width="250" height="250"/>
 
-## MP2 
+## MP2 Rasterizer
+- Depth buffer
+- Anti-aliasing(supersampling anti-aliasing(SSAA), multisample anti-aliasing(MSAA))
+
+<img alt="Without Anti-alising" src="[https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW1.gif](https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/Vanilla.png)" width="250" height="250"/>
