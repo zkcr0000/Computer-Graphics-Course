@@ -33,3 +33,17 @@ After zooming in, anti-aliasing has reduce the effect of zigzag at the boundary.
 
 <img alt="Without Anti-alising" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/Vanilla_zoomin.png" width="250" height="250"/><img alt="MSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/MSAA_zoomin.png" width="250" height="250"/><img alt="SSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/SSAA_zoomin.png" width="250" height="250"/>
 
+# MP3 Shading model
+
+- Blinn–Phong reflection model
+- Bump mapping
+- Displacement mapping
+- Texture
+
+<img alt="Without Anti-alising" src="(https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/phong.png)" width="250" height="250"/>
+<img alt="Without Anti-alising" src="((https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/bump.png))" width="250" height="250"/>
+<img alt="Without Anti-alising" src="((https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/displacement.png))" width="250" height="250"/>
+<img alt="Without Anti-alising" src="((https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/texture.png))" width="250" height="250"/>
+
+
+
