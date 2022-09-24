@@ -66,12 +66,21 @@ Implemented Whitted-Style Ray tracing with reflection and diffraction.
 
 # MP6 Ray tracing with Bounded Volume Hierarchy(BVH)
 
+- Ray tracing for Stanford Bunny
 - Implemented BVH to accelerate ray tracing
 - Implemented ray intersecting with Axis Aligned Bounding Box(AABB)
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW6.jpg" width="240" height="180"/>
 
+# MP7 Path tracing
 
+Implemented path tracing.
 
+- Path tracing for Cornell Box
+- Rendering equation
+- bidirectional reflectance distribution function (BRDF)
+- Monte Carlo Integration
+
+<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW7.jpg" width="250" height="250"/>
 
 
