@@ -91,6 +91,6 @@ Inside each MP folder
 mkdir build
 cmake ..
 make
-./Raserazation # or ./Ray tracing
+./Rasterization # Or ./Raytracing
 ```
 
