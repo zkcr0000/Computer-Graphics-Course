@@ -38,7 +38,7 @@ After zooming in, anti-aliasing has reduce the effect of zigzag at the boundary.
 
 <img alt="Without Anti-alising" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/Vanilla_zoomin.png" width="250" height="250"/><img alt="MSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/MSAA_zoomin.png" width="250" height="250"/><img alt="SSAA" src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/SSAA_zoomin.png" width="250" height="250"/>
 
-# MP3 Shading model
+## MP3 Shading model
 
 Implemented the following shading methods.
 
@@ -52,19 +52,19 @@ From left to right: Blinn-Phong reflection model, Bump mapping, Displacement map
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/phong.png" width="250" height="250"/><img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/bump.png" width="250" height="250"/><img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/displacement.png" width="250" height="250"/><img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/texture.png" width="250" height="250"/>
 
 
-# MP4 Bézier curve
+## MP4 Bézier curve
 
 Implemented de Casteljau's algorithm.
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW4.gif" width="250" height="250"/>
 
-# MP5 Whitted-Style Ray tracing
+## MP5 Whitted-Style Ray tracing
 
 Implemented Whitted-Style Ray tracing with reflection and diffraction.
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW5.jpg" width="240" height="180"/>
 
-# MP6 Ray tracing with Bounded Volume Hierarchy(BVH)
+## MP6 Ray tracing with Bounded Volume Hierarchy(BVH)
 
 - Ray tracing for Stanford Bunny
 - Implemented BVH to accelerate ray tracing
@@ -72,7 +72,7 @@ Implemented Whitted-Style Ray tracing with reflection and diffraction.
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW6.jpg" width="240" height="180"/>
 
-# MP7 Path tracing
+## MP7 Path tracing
 
 Implemented path tracing.
 
@@ -83,4 +83,14 @@ Implemented path tracing.
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW7.jpg" width="250" height="250"/>
 
+# Compilation
+
+Inside each MP folder
+
+```
+mkdir build
+cmake ..
+make
+./Raserazation # or ./Ray tracing
+```
 
