@@ -64,6 +64,14 @@ Implemented Whitted-Style Ray tracing with reflection and diffraction.
 
 <img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW5.jpg" width="240" height="180"/>
 
+# MP6 Ray tracing with Bounded Volume Hierarchy(BVH)
+
+- Implemented BVH to accelerate ray tracing
+- Implemented ray intersecting with Axis Aligned Bounding Box(AABB)
+
+<img src="https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW6.jpg" width="240" height="180"/>
+
+
 
 
 
