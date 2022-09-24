@@ -11,7 +11,7 @@ Required libraries
 - Eigen
 - OpenCV
 - stb_image
-= OBJ Loader
+- OBJ Loader
 
 # Results
 
