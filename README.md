@@ -26,5 +26,5 @@ It contains C++ implmentations of rasterizer, raytracing, etc. Results are shown
 - Depth buffer
 - Anti-aliasing(supersampling anti-aliasing(SSAA), multisample anti-aliasing(MSAA))
 
-<img src="[https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/HW1.gif](https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/Vanilla.png)" width="250" height="250"/>
-*image_caption*
+<img alt="without Anti-alising" src="(https://github.com/zkcr0000/Computer-Graphics-Course/blob/main/Supplementary/Vanilla.png)" width="250" height="250"/>
+
