@@ -8,3 +8,6 @@ This repository is based on a Computer graphics course assignment https://sites.
 - OpenCV
 - stb_image
 = OBJ Loader
+
+# Results
+
