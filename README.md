@@ -1,5 +1,5 @@
 # Computer-Graphics-Course
-This repository is based on a Computer graphics course assignment https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+This repository is based on a Computer graphics course assignments https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
 
 It contains C++ implmentations of rasterizer, raytracing, etc. Results are shown below.
 
